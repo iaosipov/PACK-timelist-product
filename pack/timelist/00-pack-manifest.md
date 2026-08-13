@@ -55,6 +55,13 @@ last_updated: 2026-08-11
 |------|--------------|
 | _none yet_ | _will link to PACK-timeinvest-method when created_ |
 
+### External References
+
+| Reference | URL | Used In |
+|-----------|-----|---------|
+| Видеообзор TimeList | https://timelist.ru/videoobzor_302 | TL.M.001 — Демо продукта на живой встрече |
+| Тарифы TimeList | https://timelist.ru/pricing | TL.WP.004 — Прайс / коммерческое предложение |
+
 ---
 
 ## Content Summary
@@ -145,3 +152,4 @@ last_updated: 2026-08-11
 |------|--------|--------|
 | 2026-08-11 | Initial creation from 8 sources | kimi |
 | 2026-08-11 | Extracted method, work product and failure mode cards into standalone files (24 maps total) | kimi |
+| 2026-08-11 | Added external references: video overview and pricing | kimi |

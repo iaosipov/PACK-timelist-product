@@ -28,3 +28,4 @@
 ## Source
 
 - `DS-strategy/exocortex/reference_timelist_sales.md`
+- [Тарифы TimeList](https://timelist.ru/pricing)

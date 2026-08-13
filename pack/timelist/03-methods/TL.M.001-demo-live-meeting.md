@@ -36,3 +36,4 @@
 ## Source
 
 - `DS-strategy/exocortex/reference_timelist_sales.md`
+- [Видеообзор TimeList](https://timelist.ru/videoobzor_302)
